@@ -1,0 +1,8 @@
+- git:
+    local-name: smart_home/sh_scc_interfaces
+    uri: https://github.com/rnvandemark/sh_scc_interfaces.git
+    version: master
+- git:
+    local-name: smart_home/sh_sfp_interfaces
+    uri: https://github.com/rnvandemark/sh_sfp_interfaces.git
+    version: master
