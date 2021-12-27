@@ -1,4 +1,8 @@
 - git:
+    local-name: cv_bridge
+    uri: https://github.com/ros2-gbp/vision_opencv-release.git
+    version: rpm/ros-galactic-cv-bridge-2.2.1-2_8
+- git:
     local-name: smart_home/sh_scc_interfaces
     uri: https://github.com/rnvandemark/sh_scc_interfaces.git
     version: master
