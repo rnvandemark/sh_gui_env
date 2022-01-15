@@ -6,6 +6,7 @@
 python3 -m pip install -U \
   matplotlib \
   scipy \
+  youtube-search-python \
   pyqt5==5.14.0
 
 git clone https://github.com/opencv/opencv.git --branch 3.4.17
